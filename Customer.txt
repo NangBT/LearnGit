@@ -3,3 +3,6 @@ This is Member Controller
 1. Register
     1.1 Register New Account
     1.2 Return Info
+2. Login
+    2.1 Login with email and Password
+    2.2 Return Info
