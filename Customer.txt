@@ -10,3 +10,5 @@ This is Member Controller
 3. Complete Profile
     3.1 Complete Profile
     3.2 Return Info
+4. Get Profile
+	4.1 Return Info
