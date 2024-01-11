@@ -3,7 +3,8 @@ This is Member Controller
 1. Register
     1.1 Register New Account
     1.2 Send Email To Customer
-    1.3 Return Info
+    1.3 Update Device
+    1.4 Return Info
 2. Activate Account
     2.1 Activate Account
     2.2 Return Info
